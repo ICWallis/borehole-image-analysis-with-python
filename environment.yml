@@ -1,4 +1,4 @@
-name: bhi_env
+name: sandpit
 channels:
 - conda-forge
 - defaults
